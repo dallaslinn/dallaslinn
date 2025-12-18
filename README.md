@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello! I'm Dallas! I'm a linguist, transit enthusiast, and soon-to-be-sellout. I'm passionate about sharing and collaborating on academic work in line with free and open-source principles. I'm just getting started on my academic journey, but you can already find my first project here on my github.
 
-<!--
-**dallaslinn/dallaslinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pronouns: they/them/theirs
+Location: Cambridge (generally)
+Home: Virginia
+Current project: Evaluating Labeling in Minimalist Syntax
+Interests and future directions:
+* (more) Labeling!
+* Possession and case marking ordering
+* Defining extendend projections
+* Feature-focused syntax
+* Transit best practices
+* Urbanist advocacy
